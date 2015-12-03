@@ -1,0 +1,26 @@
+{
+  "name": "quickstarter",
+  "description": "Quickstarter is an boilerplate for web development. This contains tools for building things faster and cleaner using modern web technologies.",
+  "main": "index.js",
+  "authors": [
+    "Sriraman"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "quickstarter",
+    "web",
+    "boilerplate"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "quickstarter",
+  "version": "1.0.0",
+  "description": "Quickstarter is an boilerplate for web development. This contains tools for building things faster and cleaner using modern web technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quickstarter",
+    "web",
+    "boilerplate"
+  ],
+  "author": "Sriraman",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
